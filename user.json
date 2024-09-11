@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Valentina",
+    "last_name": "Hush",
+    "email": "vhush0@smugmug.com",
+    "gender": "Genderqueer",
+    "salary": 10000
+  },
+  {
+    "id": 2,
+    "first_name": "Bobina",
+    "last_name": "Bretelle",
+    "email": "bbretelle1@springer.com",
+    "gender": "Female",
+    "salary": 456780
+  },
+  {
+    "id": 3,
+    "first_name": "Vita",
+    "last_name": "Audry",
+    "email": "vaudry2@hostgator.com",
+    "gender": "Female",
+    "salary": 76540
+  },
+  {
+    "id": 4,
+    "first_name": "Gaven",
+    "last_name": "Royl",
+    "email": "groyl3@sogou.com",
+    "gender": "Male",
+    "salary": 985210
+  },
+  {
+    "id": 5,
+    "first_name": "Ruperto",
+    "last_name": "Elloy",
+    "email": "relloy4@t-online.de",
+    "gender": "Male",
+    "salary": 13450
+  },
+  {
+    "id": 6,
+    "first_name": "Kristoffer",
+    "last_name": "Escritt",
+    "email": "kescritt5@fema.gov",
+    "gender": "Male",
+    "salary": 98760
+  },
+  {
+    "id": 7,
+    "first_name": "Gilda",
+    "last_name": "Heberden",
+    "email": "gheberden6@unesco.org",
+    "gender": "Female",
+    "salary": 23450
+  },
+  {
+    "id": 8,
+    "first_name": "Maegan",
+    "last_name": "Stratford",
+    "email": "mstratford7@va.gov",
+    "gender": "Female",
+    "salary": 19870
+  },
+  {
+    "id": 9,
+    "first_name": "Calla",
+    "last_name": "Barde",
+    "email": "cbarde8@fda.gov",
+    "gender": "Female",
+    "salary": 15670
+  },
+  {
+    "id": 10,
+    "first_name": "Barney",
+    "last_name": "Vossgen",
+    "email": "bvossgen9@google.fr",
+    "gender": "Male",
+    "salary": 12340
+  }
+]
